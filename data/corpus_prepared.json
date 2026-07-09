@@ -1,0 +1,130 @@
+[
+  {
+    "id": "art-L1234-1",
+    "text": "Article L1234-1 — Préavis de licenciement. Lorsque le licenciement n'est pas motivé par une faute grave, le salarié a droit à un préavis dont la durée dépend de son ancienneté dans l'entreprise. Sauf dispositions conventionnelles ou contractuelles plus favorables, ce délai est d'un mois pour une ancienneté comprise entre six mois et deux ans, et de deux mois pour une ancienneté de deux ans ou plus. Ce préavis n'est pas dû en cas de faute grave ou lourde du salarié.",
+    "numero": "L1234-1",
+    "titre": "Préavis de licenciement",
+    "theme": "Licenciement",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1234-5",
+    "text": "Article L1234-5 — Inexécution du préavis. Lorsque l'employeur dispense le salarié d'exécuter son préavis, cette dispense n'entraîne, jusqu'à l'expiration du délai de préavis, aucune diminution des salaires et avantages que le salarié aurait reçus s'il avait accompli son travail, y compris l'indemnité de congés payés.",
+    "numero": "L1234-5",
+    "titre": "Inexécution du préavis",
+    "theme": "Licenciement",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L3121-27",
+    "text": "Article L3121-27 — Durée légale du travail. La durée légale de travail effectif des salariés à temps complet est fixée à trente-cinq heures par semaine, sauf dispositions particulières prévues par le présent titre.",
+    "numero": "L3121-27",
+    "titre": "Durée légale du travail",
+    "theme": "Durée du travail et heures supplémentaires",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L3121-33",
+    "text": "Article L3121-33 — Contingent annuel d'heures supplémentaires. Une convention ou un accord collectif d'entreprise ou d'établissement, ou à défaut de branche, peut prévoir le contingent annuel d'heures supplémentaires. À défaut d'accord, un décret fixe ce contingent. Les heures effectuées au-delà de la durée légale donnent lieu à une majoration de salaire, à moins qu'elles ne soient remplacées par un repos compensateur équivalent.",
+    "numero": "L3121-33",
+    "titre": "Contingent annuel d'heures supplémentaires",
+    "theme": "Durée du travail et heures supplémentaires",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L3141-3",
+    "text": "Article L3141-3 — Droit à congés payés. Le salarié a droit à un congé de deux jours et demi ouvrables par mois de travail effectif chez le même employeur, sans que la durée totale du congé exigible puisse excéder trente jours ouvrables, soit cinq semaines par an.",
+    "numero": "L3141-3",
+    "titre": "Droit à congés payés",
+    "theme": "Congés payés",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L3141-12",
+    "text": "Article L3141-12 — Période de prise des congés. Les congés payés peuvent être pris dès l'embauche, sans préjudice des dispositions relatives à la période de prise des congés et à l'ordre des départs. L'employeur ne peut, sauf urgence exceptionnelle, modifier l'ordre et les dates de départ moins d'un mois avant la date prévue.",
+    "numero": "L3141-12",
+    "titre": "Période de prise des congés",
+    "theme": "Congés payés",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1237-11",
+    "text": "Article L1237-11 — Principe de la rupture conventionnelle. L'employeur et le salarié peuvent convenir en commun des conditions de la rupture du contrat de travail à durée indéterminée qui les lie. La rupture conventionnelle résulte d'une convention signée par les parties. Elle est exclusive du licenciement ou de la démission et ne peut être imposée par l'une ou l'autre des parties.",
+    "numero": "L1237-11",
+    "titre": "Principe de la rupture conventionnelle",
+    "theme": "Rupture conventionnelle",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1237-13",
+    "text": "Article L1237-13 — Indemnité et délai de rétractation. La convention de rupture définit le montant de l'indemnité spécifique de rupture conventionnelle, qui ne peut être inférieur à l'indemnité légale de licenciement. À compter de la date de sa signature par les deux parties, chacune dispose d'un délai de quinze jours calendaires pour exercer son droit de rétractation.",
+    "numero": "L1237-13",
+    "titre": "Indemnité et délai de rétractation",
+    "theme": "Rupture conventionnelle",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1237-14",
+    "text": "Article L1237-14 — Homologation de la convention. À l'issue du délai de rétractation, la partie la plus diligente adresse une demande d'homologation à l'autorité administrative, avec un exemplaire de la convention de rupture. L'autorité administrative dispose d'un délai d'instruction de quinze jours ouvrables pour s'assurer du respect des conditions et de la liberté de consentement des parties.",
+    "numero": "L1237-14",
+    "titre": "Homologation de la convention",
+    "theme": "Rupture conventionnelle",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1233-3",
+    "text": "Article L1233-3 — Définition du licenciement économique. Constitue un licenciement pour motif économique le licenciement effectué par un employeur pour un ou plusieurs motifs non inhérents à la personne du salarié résultant d'une suppression ou transformation d'emploi, ou d'une modification d'un élément essentiel du contrat de travail, consécutives notamment à des difficultés économiques, à des mutations technologiques, à une réorganisation nécessaire à la sauvegarde de la compétitivité, ou à la cessation d'activité de l'entreprise.",
+    "numero": "L1233-3",
+    "titre": "Définition du licenciement économique",
+    "theme": "Licenciement",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1233-4",
+    "text": "Article L1233-4 — Obligation de reclassement. Le licenciement pour motif économique d'un salarié ne peut intervenir que lorsque tous les efforts de formation et d'adaptation ont été réalisés et que le reclassement de l'intéressé ne peut être opéré sur les emplois disponibles, situés sur le territoire national dans l'entreprise ou les autres entreprises du groupe dont l'entreprise fait partie.",
+    "numero": "L1233-4",
+    "titre": "Obligation de reclassement",
+    "theme": "Licenciement",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L3231-2",
+    "text": "Article L3231-2 — Salaire minimum de croissance. Le salaire minimum de croissance assure aux salariés dont les rémunérations sont les plus faibles la garantie de leur pouvoir d'achat et une participation au développement économique de la nation. Ses modalités de revalorisation sont fixées par voie réglementaire.",
+    "numero": "L3231-2",
+    "titre": "Salaire minimum de croissance",
+    "theme": "Salaire minimum (SMIC)",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1152-1",
+    "text": "Article L1152-1 — Interdiction du harcèlement moral. Aucun salarié ne doit subir les agissements répétés de harcèlement moral qui ont pour objet ou pour effet une dégradation de ses conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel.",
+    "numero": "L1152-1",
+    "titre": "Interdiction du harcèlement moral",
+    "theme": "Harcèlement et discrimination",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1152-2",
+    "text": "Article L1152-2 — Protection du salarié qui témoigne. Aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir subi ou refusé de subir des agissements répétés de harcèlement moral, ou pour avoir témoigné de tels agissements ou les avoir relatés.",
+    "numero": "L1152-2",
+    "titre": "Protection du salarié qui témoigne",
+    "theme": "Harcèlement et discrimination",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1221-1",
+    "text": "Article L1221-1 — Définition du contrat de travail. Le contrat de travail est soumis aux règles du droit commun. Il peut être établi selon les formes que les parties contractantes décident d'adopter. Il est exécuté de bonne foi.",
+    "numero": "L1221-1",
+    "titre": "Définition du contrat de travail",
+    "theme": "Contrat de travail (CDI, CDD)",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  },
+  {
+    "id": "art-L1242-1",
+    "text": "Article L1242-1 — Cas de recours au CDD. Un contrat de travail à durée déterminée, quel que soit son motif, ne peut avoir ni pour objet ni pour effet de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise.",
+    "numero": "L1242-1",
+    "titre": "Cas de recours au CDD",
+    "theme": "Contrat de travail (CDI, CDD)",
+    "source": "Corpus de démo (Option C) — À remplacer par API Légifrance / LEGI en production"
+  }
+]
